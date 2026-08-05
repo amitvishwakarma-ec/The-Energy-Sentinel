@@ -1,6 +1,6 @@
 // ==========================================
-//    THE ENERGY SENTINEL (FINAL MASTER)
-//    Team: Error Terror | Amit Vishwakarma
+//    THE ENERGY SENTINEL 
+//     Amit Vishwakarma
 // ==========================================
 
 #define BLYNK_TEMPLATE_ID "TMPL3eqQLQWU8"
@@ -18,8 +18,8 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2); 
 
 // 👇 WIFI DETAILS 👇
-char ssid[] = "Error";   
-char pass[] = "123456789";  
+char ssid[] = "Error";     //hotspot name
+char pass[] = "123456789";  //password
 
 #define DHTPIN 32     
 #define DHTTYPE DHT22 
