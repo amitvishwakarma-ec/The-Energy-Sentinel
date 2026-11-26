@@ -1,5 +1,5 @@
 // ==========================================
-//    THE ENERGY SENTINEL (FINAL MASTER)
+//    THE ENERGY SENTINEL
 //    Team: Error Terror | Amit Vishwakarma
 // ==========================================
 
